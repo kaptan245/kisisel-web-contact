@@ -29,15 +29,18 @@ cursor: pointer;
  font-size: 38px;
  letter-spacing: 3px;
  font-weight: 95;
+ color: aqua;
 
 }
 .box h5{
     font-size: 20px;
     font-weight:100 ;
     letter-spacing: 3px;
+    color: darkblue;
 }
 .box p {
     text-align: justify;
+    color: black;
 
 }
 ul {
