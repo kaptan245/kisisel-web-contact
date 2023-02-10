@@ -6,6 +6,6 @@
 
 <a href="">Please Contact Me</a>
 
-! [](kayit.gif)
+![](kayit.gif)
 
 
